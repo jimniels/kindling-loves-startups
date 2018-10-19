@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-24: Created.
+-->
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20120731 at Tue Sep 24 19:43:24 2013
+ By Jim Nielsen
+Created by Jim Nielsen with FontForge 2.0 (http://fontforge.sf.net)
+</metadata>
+<defs>
+<font id="kindlinglovesstartups" horiz-adv-x="512" >
+  <font-face 
+    font-family="kindlinglovesstartups"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 6 9 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -32 512 416"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+F100-F103"
+  />
+    <missing-glyph />
+    <glyph glyph-name="uniF100" unicode="&#xf100;" 
+d="M255.5 167.976l-100.404 108.764l54.3945 54.3926l146.414 -163.156l-146.414 -163.156l-54.3945 54.3936z" />
+    <glyph glyph-name="uniF101" unicode="&#xf101;" 
+d="M355.904 276.739l-100.404 -108.763l100.404 -108.764l-54.3945 -54.3936l-146.414 163.157l146.414 163.155z" />
+    <glyph glyph-name="uniF102" unicode="&#xf102;" 
+d="M432 400l80 -80l-320 -320l-192 192l80 80l112 -112z" />
+    <glyph glyph-name="uniF103" unicode="&#xf103;" 
+d="M512 268.922c0 -43.1807 -18.6094 -82.0146 -48.2451 -108.922h0.245117l-160 -160c-16 -16 -32 -32 -48 -32s-32 16 -48 32l-160 160h0.245117c-29.6357 26.9072 -48.2451 65.7412 -48.2451 108.922c0 81.2295 65.8486 147.078 147.078 147.078
+c43.1807 0 82.0146 -18.6094 108.922 -48.2451c26.9072 29.6357 65.7412 48.2451 108.922 48.2451c81.2285 0 147.078 -65.8486 147.078 -147.078z" />
+  </font>
+</defs></svg>
